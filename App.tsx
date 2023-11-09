@@ -6,9 +6,6 @@ export default function App() {
   const {expoPushToken} = usePushNotifications();
   console.log(expoPushToken);
   
-
-  const samples = [200, 300, 400, 500, 400, 350, 400, 500, 600, 450, 300, 500];
-
   return (
     <View style={styles.container}>
       <Text>Open up App.tsx to start working on your app!</Text>
