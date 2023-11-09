@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "802559159302",
+    "firebase_url": "https://myproduct-8ec3a-default-rtdb.firebaseio.com",
+    "project_id": "myproduct-8ec3a",
+    "storage_bucket": "myproduct-8ec3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802559159302:android:75d55d9b5371332b9c2787",
+        "android_client_info": {
+          "package_name": "com.allaares.sendNot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802559159302-0k78n3fng5oeou6n96rpj7ng7p18k9tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG7hITzORsYV5B7Q1d9ojAOhXYiQj6iY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802559159302-0k78n3fng5oeou6n96rpj7ng7p18k9tt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802559159302-l3csg9kqpdk8ihu4eka5mp9rb6kapvu0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.w3goods.notify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
